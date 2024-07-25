@@ -1,2 +1,2 @@
-# NodeJS_Project
-MEN (excluding ReactJS) application
+# NodeJS-basic-Project
+User & his Posts API
